@@ -1,2 +1,2 @@
 # pthread-tree
-pthread tree in C
+pthread tree in C and GO
